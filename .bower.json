@@ -1,0 +1,13 @@
+{
+  "name": "jstree-dist",
+  "homepage": "https://github.com/spekkionu/jstree-dist",
+  "_release": "1.0-rc3",
+  "_resolution": {
+    "type": "tag",
+    "tag": "1.0-rc3",
+    "commit": "b5a7af5b1eb158f0ba6c6105db24e9b50b72effd"
+  },
+  "_source": "git://github.com/spekkionu/jstree-dist.git",
+  "_target": "1.0-rc3",
+  "_originalSource": "jstree-dist"
+}
